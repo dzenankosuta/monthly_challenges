@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+PhagsPa&display=swap');
+
+html {
+    font-family: 'Montserrat', 'Noto Sans Phags Pa', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: #1a1a1a;
+  }
